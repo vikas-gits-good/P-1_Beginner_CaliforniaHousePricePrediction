@@ -1,0 +1,11 @@
+setuptools
+pandas
+numpy
+matplotlib
+seaborn
+ipykernel
+scikit-learn
+xgboost
+dill
+flask
+flask-cors
