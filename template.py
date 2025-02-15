@@ -14,7 +14,7 @@ folder_files_list = [
     "requirements.txt",
     "setup.py",
     "research/01_Vcc_Trials.ipynb",
-    "templates/index.html",
+    "templates/home.html",
     "artifacts/01_Data/delete.csv",
     "artifacts/02_DataFrames/delete.csv",
     "artifacts/03_Pipeline/delete.csv",
