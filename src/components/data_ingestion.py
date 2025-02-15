@@ -10,7 +10,7 @@ from src.logger import logging
 
 @dataclass
 class DataIngestionConfig:
-    train_data_path: str = os.path.join("artifacts", "01_Data/housing.csv")
+    train_data_path: str = os.path.join("artifacts", "01_Data/train.csv")
     test_data_path: str = os.path.join("artifacts", "01_Data/test.csv")
     raw_data_path: str = os.path.join("artifacts", "01_Data/housing.csv")
 
